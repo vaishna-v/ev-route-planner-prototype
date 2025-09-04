@@ -12,9 +12,4 @@ The actual backend (in C) and final algorithms will be built by our team.
 - Sidebar for route input (non-functional yet).
 - Clickable buttons for algorithm, edit, load, save (placeholders).
 
-## Final Project (Planned)
-- Graph algorithms in C (Dijkstra, A*, Bellman-Ford, etc.).
-- EV-specific constraints (battery, charging stations).
-- Integration of backend (C) with GUI frontend.
-
 ---
